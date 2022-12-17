@@ -1,2 +1,4 @@
 **/build
 *.so
+**/pycache__
+**/data
